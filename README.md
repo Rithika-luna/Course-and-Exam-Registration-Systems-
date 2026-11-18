@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040344
+# Name:S Rithika
+# Date:20-11-2016
 
 
 # AIM:
@@ -29,6 +29,10 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
+
+
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -40,7 +44,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
+<img width="800" height="756" alt="644023954-3fbca794-7ab2-447f-9d5d-14a27c40b73a" src="https://github.com/user-attachments/assets/5ef02730-6cb9-4b4f-8b45-dae011545a4b" />
 
 
 
@@ -60,6 +64,7 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1013" height="807" alt="644025570-54fc1acb-5053-4c9c-a75c-11b0ddc8c453" src="https://github.com/user-attachments/assets/9d004b30-70d8-409b-9260-0b3785ee64b4" />
 
 # COMMUNICTION DIAGRAM:
 
@@ -68,6 +73,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="928" height="636" alt="644025659-acfb28bd-f0c9-4288-af0d-6f401f310fe1" src="https://github.com/user-attachments/assets/9fc86305-aa9d-47eb-9d3e-2da58f12e795" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +85,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1102" height="794" alt="644026038-43ba12ab-1094-4094-a21c-d9041f64acf6" src="https://github.com/user-attachments/assets/0eb5cd89-c2ef-4b53-b8ae-ea649f7f7d00" />
 
 
 
@@ -98,6 +105,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="747" height="848" alt="644026079-e3d10cb4-6549-4cb8-b218-bdf79286bbd4" src="https://github.com/user-attachments/assets/11fd767a-98a1-440d-92a6-b6d5587184e1" />
 
 
 
@@ -119,6 +127,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1044" height="756" alt="644026129-852b399c-0984-449d-a6fd-ef71ea0b04fe" src="https://github.com/user-attachments/assets/6e182a03-3185-43e6-aec8-2cdc1fd0244c" />
 
 
 
